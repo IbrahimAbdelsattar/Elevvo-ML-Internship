@@ -81,6 +81,7 @@ This repository contains a collection of machine learning projects completed dur
 
 4. Install required dependencies:
    pip install -r requirements.txt
+   
 Elevvo-ML-Internship/
 │── Customer_Segmentation.zip # Customer segmentation using clustering
 │── GTRSB.zip # German Traffic Sign Recognition using CNN
