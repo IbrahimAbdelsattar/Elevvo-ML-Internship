@@ -81,11 +81,3 @@ This repository contains a collection of machine learning projects completed dur
 
 4. Install required dependencies:
    pip install -r requirements.txt
-   
-Elevvo-ML-Internship/
-│── Customer_Segmentation.zip # Customer segmentation using clustering
-│── GTRSB.zip # German Traffic Sign Recognition using CNN
-│── Loan-Approval-Prediction.zip # Loan approval classification model
-│── Movie Recommendation System.zip # Movie recommendation engine
-│── Student_Performance_Factors.zip # Predicting and analyzing student performance
-│── README.md # Repository documentation
